@@ -8,6 +8,8 @@ import android.view.MenuItem;
 
 public class ThomasJaenichStinkt extends ActionBarActivity {
 
+    // hallo
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
